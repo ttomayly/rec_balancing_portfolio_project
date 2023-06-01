@@ -1,0 +1,1157 @@
+Ticker,Sector,Country,Cap,P/E
+0,A,Healthcare,USA,Large,28.48
+1,AAP,Consumer Cyclical,USA,Mid,14.20
+2,AAPL,Technology,USA,Large,29.23
+3,AAT,Real Estate,USA,Small,22.40
+4,ABB,Industrials,Switzerland,Large,23.44
+5,ABCB,Financial,USA,Mid,6.23
+6,ABEV,Consumer Defensive,Brazil,Large,15.56
+7,ABM,Industrials,USA,Mid,15.16
+8,ABNB,Consumer Cyclical,USA,Large,35.12
+9,ABR,Real Estate,USA,Mid,8.45
+10,ACA,Industrials,USA,Mid,11.84
+11,ACGL,Financial,Bermuda,Large,14.35
+12,ACI,Consumer Defensive,USA,Large,9.02
+13,ACIW,Technology,USA,Mid,29.67
+14,ACLS,Technology,USA,Mid,22.91
+15,ACMR,Technology,USA,Small,12.12
+16,ACN,Technology,Ireland,Large,25.70
+17,ACNT,Basic Materials,USA,Small,15.35
+18,ACU,Consumer Defensive,USA,Small,30.25
+19,ADBE,Technology,USA,Large,34.03
+20,ADC,Real Estate,USA,Mid,36.83
+21,ADI,Technology,USA,Large,27.60
+22,ADP,Industrials,USA,Large,27.13
+23,ADUS,Healthcare,USA,Small,27.91
+24,AEE,Utilities,USA,Large,20.03
+25,AEIS,Industrials,USA,Mid,16.80
+26,AEO,Consumer Cyclical,USA,Mid,21.15
+27,AEP,Utilities,USA,Large,22.80
+28,AER,Industrials,Ireland,Large,8.09
+29,AFG,Financial,USA,Mid,12.06
+30,AFYA,Consumer Defensive,Brazil,Small,13.64
+31,AGCO,Industrials,USA,Mid,9.25
+32,AGR,Utilities,USA,Large,21.98
+33,AHH,Real Estate,USA,Small,11.82
+34,AIT,Industrials,USA,Mid,14.96
+35,AIZ,Financial,USA,Mid,28.99
+36,AKAM,Technology,USA,Large,27.46
+37,AL,Industrials,USA,Mid,9.17
+38,ALB,Basic Materials,USA,Large,6.60
+39,ALE,Utilities,USA,Mid,19.16
+40,ALG,Industrials,USA,Mid,17.99
+41,ALGM,Technology,USA,Mid,39.44
+42,ALLE,Industrials,Ireland,Mid,19.23
+43,ALSN,Consumer Cyclical,USA,Mid,7.89
+44,ALV,Consumer Cyclical,Sweden,Mid,17.83
+45,AMAT,Technology,USA,Large,16.20
+46,AMCR,Consumer Cyclical,Switzerland,Large,15.65
+47,AME,Industrials,USA,Large,28.00
+48,AMEH,Healthcare,USA,Small,30.91
+49,AMG,Financial,USA,Mid,6.05
+50,AMGN,Healthcare,USA,Large,15.48
+51,AMH,Real Estate,USA,Large,38.55
+52,AMK,Financial,USA,Mid,21.20
+53,AMN,Healthcare,USA,Mid,10.85
+54,AMNB,Financial,USA,Small,8.08
+55,AMOT,Technology,USA,Small,26.04
+56,AMP,Financial,USA,Large,14.95
+57,AMPH,Healthcare,USA,Mid,24.08
+58,AMRC,Industrials,USA,Mid,28.81
+59,AMSWA,Technology,USA,Small,36.19
+60,AN,Consumer Cyclical,USA,Mid,5.33
+61,ANDE,Consumer Defensive,USA,Small,13.05
+62,ANET,Technology,USA,Large,28.32
+63,AOSL,Technology,USA,Small,26.05
+64,APA,Energy,USA,Mid,5.12
+65,APD,Basic Materials,USA,Large,28.34
+66,APH,Technology,USA,Large,24.18
+67,APOG,Industrials,USA,Small,8.20
+68,APPS,Technology,USA,Small,25.56
+69,APT,Industrials,Canada,Small,21.20
+70,ARCO,Consumer Cyclical,Uruguay,Small,12.61
+71,ARI,Real Estate,USA,Small,5.34
+72,AROW,Financial,USA,Small,6.06
+73,ARTNA,Utilities,USA,Small,28.99
+74,ASB,Financial,USA,Mid,5.73
+75,ASC,Industrials,Bermuda,Small,2.66
+76,ASGN,Technology,USA,Mid,13.01
+77,ASH,Basic Materials,USA,Mid,20.21
+78,ASIX,Basic Materials,USA,Small,6.72
+79,ASML,Technology,Netherlands,Large,34.31
+80,ASO,Consumer Cyclical,USA,Mid,7.46
+81,ATGE,Consumer Defensive,USA,Small,23.53
+82,ATHM,Communication Services,China,Mid,15.70
+83,ATLC,Financial,USA,Small,5.80
+84,ATO,Utilities,USA,Large,19.93
+85,ATR,Healthcare,USA,Mid,34.05
+86,ATSG,Industrials,USA,Small,7.09
+87,ATVI,Communication Services,USA,Large,33.10
+88,AUB,Financial,USA,Small,8.47
+89,AUDC,Technology,Israel,Small,13.25
+90,AVA,Utilities,USA,Mid,23.21
+91,AVGO,Technology,USA,Large,21.57
+92,AVNW,Technology,USA,Small,27.73
+93,AVT,Technology,USA,Mid,4.52
+94,AVTR,Basic Materials,USA,Large,22.25
+95,AVY,Consumer Cyclical,USA,Large,20.24
+96,AWI,Industrials,USA,Mid,14.55
+97,AWK,Utilities,USA,Large,31.80
+98,AWR,Utilities,USA,Mid,33.80
+99,AX,Financial,USA,Mid,7.94
+100,AXP,Financial,USA,Large,15.55
+101,AXTA,Basic Materials,USA,Mid,31.60
+102,AXTI,Technology,USA,Small,15.00
+103,AYI,Industrials,USA,Mid,13.62
+104,BAC,Financial,USA,Large,8.25
+105,BAH,Industrials,USA,Large,28.50
+106,BALL,Consumer Cyclical,USA,Large,39.26
+107,BAND,Technology,USA,Small,19.56
+108,BANF,Financial,USA,Mid,11.97
+109,BANR,Financial,USA,Small,7.28
+110,BAP,Financial,Peru,Large,8.06
+111,BBAR,Financial,Argentina,Small,3.43
+112,BBSI,Industrials,USA,Small,11.96
+113,BBVA,Financial,Spain,Large,5.98
+114,BBW,Consumer Cyclical,USA,Small,6.55
+115,BC,Consumer Cyclical,USA,Mid,9.06
+116,BCE,Communication Services,Canada,Large,22.62
+117,BCH,Financial,Chile,Large,6.32
+118,BCML,Financial,USA,Small,7.18
+119,BCO,Industrials,USA,Mid,18.03
+120,BCSF,Financial,USA,Small,7.47
+121,BDC,Technology,USA,Mid,12.75
+122,BECN,Industrials,USA,Mid,10.35
+123,BERY,Consumer Cyclical,USA,Mid,10.09
+124,BFS,Real Estate,USA,Small,20.87
+125,BGSF,Industrials,USA,Small,8.43
+126,BHE,Technology,USA,Small,10.84
+127,BHLB,Financial,USA,Small,8.62
+128,BJ,Consumer Defensive,USA,Mid,18.83
+129,BK,Financial,USA,Large,12.55
+130,BKE,Consumer Cyclical,USA,Small,6.35
+131,BKH,Utilities,USA,Mid,16.47
+132,BKI,Technology,USA,Mid,36.87
+133,BKNG,Consumer Cyclical,USA,Large,25.95
+134,BLD,Industrials,USA,Mid,11.72
+135,BLDR,Industrials,USA,Large,7.69
+136,BLK,Financial,USA,Large,19.66
+137,BLMN,Consumer Cyclical,USA,Mid,20.27
+138,BLX,Financial,Panama,Small,7.35
+139,BMA,Financial,Argentina,Mid,5.82
+140,BMO,Financial,Canada,Large,7.45
+141,BMRC,Financial,USA,Small,5.39
+142,BMY,Healthcare,USA,Large,19.53
+143,BNS,Financial,Canada,Large,9.16
+144,BOH,Financial,USA,Small,6.60
+145,BOKF,Financial,USA,Mid,8.28
+146,BOOM,Energy,USA,Small,14.32
+147,BOOT,Consumer Cyclical,USA,Mid,12.92
+148,BPOP,Financial,USA,Mid,3.83
+149,BR,Technology,USA,Large,32.67
+150,BRC,Industrials,USA,Mid,16.23
+151,BRKL,Financial,USA,Small,6.44
+152,BRKR,Healthcare,USA,Large,35.00
+153,BRO,Financial,USA,Large,27.15
+154,BRY,Energy,USA,Small,1.81
+155,BSAC,Financial,Chile,Mid,10.11
+156,BSBR,Financial,Brazil,Large,16.31
+157,BSET,Consumer Cyclical,USA,Small,5.52
+158,BSM,Energy,USA,Mid,5.58
+159,BSRR,Financial,USA,Small,6.59
+160,BTE,Energy,Canada,Mid,2.11
+161,BTI,Consumer Defensive,United Kingdom,Large,9.13
+162,BUD,Consumer Defensive,Belgium,Large,16.40
+163,BUSE,Financial,USA,Small,7.15
+164,BVH,Consumer Cyclical,USA,Small,8.72
+165,BWA,Consumer Cyclical,USA,Large,10.69
+166,BWB,Financial,USA,Small,4.86
+167,BWXT,Industrials,USA,Mid,25.52
+168,BXC,Industrials,USA,Small,4.18
+169,BXMT,Real Estate,USA,Mid,11.84
+170,BY,Financial,USA,Small,7.25
+171,BYD,Consumer Cyclical,USA,Mid,10.40
+172,BZH,Consumer Cyclical,USA,Small,3.24
+173,CABO,Communication Services,USA,Mid,33.84
+174,CACC,Financial,USA,Mid,13.47
+175,CACI,Technology,USA,Mid,19.25
+176,CADE,Financial,USA,Mid,7.80
+177,CAG,Consumer Defensive,USA,Large,21.76
+178,CAKE,Consumer Cyclical,USA,Small,33.48
+179,CAL,Consumer Cyclical,USA,Small,4.61
+180,CAMT,Technology,Israel,Small,16.91
+181,CAPL,Energy,USA,Small,11.65
+182,CARG,Consumer Cyclical,USA,Mid,9.86
+183,CARR,Industrials,USA,Large,14.28
+184,CASY,Consumer Cyclical,USA,Mid,18.88
+185,CAT,Industrials,USA,Large,15.32
+186,CATY,Financial,USA,Mid,5.52
+187,CB,Financial,Switzerland,Large,16.03
+188,CBAN,Financial,USA,Small,8.12
+189,CBFV,Financial,USA,Small,8.01
+190,CBRE,Real Estate,USA,Large,21.15
+191,CBRL,Consumer Cyclical,USA,Mid,22.13
+192,CBT,Basic Materials,USA,Mid,12.33
+193,CBZ,Industrials,USA,Mid,21.23
+194,CC,Basic Materials,USA,Mid,9.01
+195,CCBG,Financial,USA,Small,10.63
+196,CCK,Consumer Cyclical,USA,Mid,15.85
+197,CCRN,Healthcare,USA,Small,5.93
+198,CCS,Consumer Cyclical,USA,Mid,5.27
+199,CDMO,Healthcare,USA,Small,13.54
+200,CDW,Technology,USA,Large,21.30
+201,CE,Basic Materials,USA,Large,7.52
+202,CECO,Industrials,USA,Small,24.55
+203,CENT,Consumer Defensive,USA,Small,17.43
+204,CFG,Financial,USA,Large,6.02
+205,CGBD,Financial,USA,Small,9.35
+206,CHDN,Consumer Cyclical,USA,Large,19.88
+207,CHE,Healthcare,USA,Mid,34.24
+208,CHGG,Consumer Defensive,USA,Small,5.13
+209,CHKP,Technology,Israel,Large,18.20
+210,CHRW,Industrials,USA,Large,15.79
+211,CHTR,Communication Services,USA,Large,10.99
+212,CHUY,Consumer Cyclical,USA,Small,28.81
+213,CHX,Energy,USA,Mid,29.32
+214,CI,Healthcare,USA,Large,11.65
+215,CIB,Financial,Colombia,Mid,3.93
+216,CIEN,Technology,USA,Mid,35.57
+217,CIVB,Financial,USA,Small,5.26
+218,CIVI,Energy,USA,Mid,4.11
+219,CLH,Industrials,USA,Mid,17.44
+220,CLS,Technology,Canada,Small,9.23
+221,CLW,Basic Materials,USA,Small,9.96
+222,CM,Financial,Canada,Large,11.10
+223,CMBM,Technology,USA,Small,15.55
+224,CMC,Basic Materials,USA,Mid,5.05
+225,CMCO,Industrials,USA,Small,21.43
+226,CMCSA,Communication Services,USA,Large,30.13
+227,CME,Financial,USA,Large,23.07
+228,CMI,Industrials,USA,Large,11.98
+229,CMS,Utilities,USA,Large,28.12
+230,CNA,Financial,USA,Large,12.20
+231,CNC,Healthcare,USA,Large,24.83
+232,CNI,Industrials,Canada,Large,20.32
+233,CNOB,Financial,USA,Small,4.71
+234,CNQ,Energy,Canada,Large,8.79
+235,CNS,Financial,USA,Mid,16.28
+236,CNTY,Consumer Cyclical,USA,Small,33.54
+237,CNX,Energy,USA,Mid,1.91
+238,CNXC,Technology,USA,Mid,11.19
+239,CNXN,Technology,USA,Small,13.65
+240,COLB,Financial,USA,Mid,6.18
+241,COLM,Consumer Cyclical,USA,Mid,16.28
+242,COST,Consumer Defensive,USA,Large,36.46
+243,CP,Industrials,Canada,Large,20.73
+244,CPA,Industrials,Panama,Mid,12.19
+245,CPAC,Basic Materials,Peru,Small,9.80
+246,CPB,Consumer Defensive,USA,Large,19.63
+247,CPE,Energy,USA,Small,1.38
+248,CPF,Financial,USA,Small,5.44
+249,CPK,Utilities,USA,Mid,24.70
+250,CPRI,Consumer Cyclical,United Kingdom,Mid,7.80
+251,CPRT,Consumer Cyclical,USA,Large,36.17
+252,CPSI,Healthcare,USA,Small,31.17
+253,CRC,Energy,USA,Mid,2.93
+254,CRESY,Industrials,Argentina,Small,4.39
+255,CRH,Basic Materials,Ireland,Large,14.09
+256,CRL,Healthcare,USA,Mid,19.86
+257,CRMT,Consumer Cyclical,USA,Small,12.28
+258,CROX,Consumer Cyclical,USA,Mid,11.48
+259,CRUS,Technology,USA,Mid,25.33
+260,CRWS,Consumer Cyclical,USA,Small,7.12
+261,CSCO,Technology,USA,Large,17.19
+262,CSGS,Technology,USA,Small,25.83
+263,CSIQ,Technology,Canada,Mid,10.69
+264,CSL,Industrials,USA,Large,12.98
+265,CSR,Real Estate,USA,Small,36.36
+266,CSV,Consumer Cyclical,USA,Small,12.52
+267,CSWC,Financial,USA,Small,13.09
+268,CSWI,Industrials,USA,Mid,23.37
+269,CSX,Industrials,USA,Large,15.56
+270,CTAS,Industrials,USA,Large,37.41
+271,CTBI,Financial,USA,Small,7.32
+272,CTG,Technology,USA,Small,14.60
+273,CTLT,Healthcare,USA,Mid,14.10
+274,CTRN,Consumer Cyclical,USA,Small,2.24
+275,CTS,Technology,USA,Small,24.02
+276,CTSH,Technology,USA,Large,13.83
+277,CTVA,Basic Materials,USA,Large,33.43
+278,CUBE,Real Estate,USA,Mid,29.16
+279,CUBI,Financial,USA,Small,3.34
+280,CVCO,Consumer Cyclical,USA,Mid,10.72
+281,CVCY,Financial,USA,Small,5.46
+282,CVLG,Industrials,USA,Small,5.49
+283,CVS,Healthcare,USA,Large,22.11
+284,CWCO,Utilities,Cayman Islands,Small,37.12
+285,CWEN-A,Utilities,USA,Mid,5.70
+286,CWH,Consumer Cyclical,USA,Mid,11.45
+287,CWK,Real Estate,United Kingdom,Small,8.61
+288,CXT,Industrials,USA,Mid,7.46
+289,CXW,Industrials,USA,Small,8.98
+290,D,Utilities,USA,Large,36.77
+291,DAC,Industrials,Greece,Small,2.27
+292,DAL,Industrials,USA,Large,11.44
+293,DAR,Consumer Defensive,USA,Mid,13.61
+294,DAVA,Technology,United Kingdom,Mid,23.99
+295,DB,Financial,Germany,Large,3.93
+296,DBI,Consumer Cyclical,USA,Small,3.33
+297,DCI,Industrials,USA,Mid,21.84
+298,DCO,Industrials,USA,Small,19.71
+299,DCP,Energy,USA,Mid,7.70
+300,DD,Basic Materials,USA,Large,29.89
+301,DE,Industrials,USA,Large,13.45
+302,DECK,Consumer Cyclical,USA,Large,25.64
+303,DEI,Real Estate,USA,Small,20.26
+304,DEN,Energy,USA,Mid,8.52
+305,DEO,Consumer Defensive,United Kingdom,Large,22.89
+306,DG,Consumer Defensive,USA,Large,20.12
+307,DHR,Healthcare,USA,Large,24.21
+308,DHT,Energy,Bermuda,Small,21.80
+309,DINO,Energy,USA,Mid,2.83
+310,DIOD,Technology,USA,Mid,12.58
+311,DK,Energy,USA,Small,4.88
+312,DKS,Consumer Cyclical,USA,Large,12.50
+313,DLB,Industrials,USA,Mid,33.74
+314,DLHC,Industrials,USA,Small,13.18
+315,DLTR,Consumer Defensive,USA,Large,22.05
+316,DLX,Communication Services,USA,Small,10.88
+317,DOOR,Industrials,USA,Mid,11.15
+318,DORM,Consumer Cyclical,USA,Mid,28.99
+319,DOV,Industrials,USA,Large,18.75
+320,DRD,Basic Materials,South Africa,Small,16.72
+321,DRI,Consumer Cyclical,USA,Large,19.97
+322,DSKE,Industrials,USA,Small,12.49
+323,DSX,Industrials,Greece,Small,2.69
+324,DTE,Utilities,USA,Large,19.54
+325,DUK,Utilities,USA,Large,18.45
+326,DVA,Healthcare,USA,Mid,18.68
+327,DXC,Technology,USA,Mid,7.81
+328,DXLG,Consumer Cyclical,USA,Small,3.30
+329,DXPE,Industrials,USA,Small,12.09
+330,DY,Industrials,USA,Mid,20.41
+331,E,Energy,Italy,Large,3.56
+332,EA,Communication Services,USA,Large,33.77
+333,EBF,Industrials,USA,Small,10.90
+334,EBIX,Technology,USA,Small,7.32
+335,EBMT,Financial,USA,Small,7.86
+336,ECPG,Financial,USA,Small,39.21
+337,ED,Utilities,USA,Large,20.67
+338,EEFT,Technology,USA,Mid,24.26
+339,EFSC,Financial,USA,Small,6.86
+340,EGBN,Financial,USA,Small,4.46
+341,EGY,Energy,USA,Small,4.93
+342,EIX,Utilities,USA,Large,32.25
+343,ELV,Healthcare,USA,Large,17.35
+344,EME,Industrials,USA,Mid,18.03
+345,EMN,Basic Materials,USA,Mid,14.04
+346,ENS,Industrials,USA,Mid,24.91
+347,EPAM,Technology,USA,Large,31.66
+348,EPD,Energy,USA,Large,10.24
+349,EPR,Real Estate,USA,Mid,18.68
+350,EPRT,Real Estate,USA,Mid,22.85
+351,EQBK,Financial,USA,Small,6.30
+352,EQH,Financial,USA,Mid,6.91
+353,EQNR,Energy,Norway,Large,3.00
+354,EQR,Real Estate,USA,Large,25.04
+355,EQT,Energy,USA,Large,3.34
+356,ERF,Energy,Canada,Mid,3.25
+357,ES,Utilities,USA,Large,17.87
+358,ESE,Technology,USA,Mid,28.99
+359,ESEA,Industrials,Greece,Small,1.33
+360,ESI,Basic Materials,USA,Mid,25.22
+361,ESLT,Industrials,Israel,Mid,31.88
+362,ESNT,Financial,Bermuda,Mid,6.43
+363,ESTE,Energy,USA,Small,2.36
+364,ET,Energy,USA,Large,9.26
+365,ETN,Industrials,Ireland,Large,25.96
+366,ETR,Utilities,USA,Large,18.74
+367,EVRG,Utilities,USA,Large,17.99
+368,EVTC,Technology,USA,Mid,10.33
+369,EW,Healthcare,USA,Large,36.90
+370,EWBC,Financial,USA,Mid,5.43
+371,EXLS,Technology,USA,Mid,33.59
+372,EXP,Basic Materials,USA,Mid,13.70
+373,EXR,Real Estate,USA,Large,23.48
+374,EXTR,Technology,USA,Mid,38.57
+375,EZPW,Financial,USA,Small,27.75
+376,FAST,Industrials,USA,Large,27.69
+377,FBNC,Financial,USA,Small,8.38
+378,FBP,Financial,USA,Small,6.96
+379,FC,Industrials,USA,Small,27.76
+380,FCBC,Financial,USA,Small,8.17
+381,FCF,Financial,USA,Small,8.62
+382,FCFS,Financial,USA,Mid,17.70
+383,FCN,Industrials,USA,Mid,28.27
+384,FDP,Consumer Defensive,Cayman Islands,Small,11.28
+385,FDS,Financial,USA,Large,33.80
+386,FDX,Industrials,USA,Large,19.08
+387,FELE,Industrials,USA,Mid,21.94
+388,FF,Basic Materials,USA,Small,8.09
+389,FFBC,Financial,USA,Small,7.02
+390,FFIC,Financial,USA,Small,4.62
+391,FFIN,Financial,USA,Mid,15.99
+392,FFIV,Technology,USA,Mid,25.53
+393,FFNW,Financial,USA,Small,7.48
+394,FFWM,Financial,USA,Small,2.43
+395,FHB,Financial,USA,Mid,7.57
+396,FHN,Financial,USA,Mid,6.34
+397,FIBK,Financial,USA,Mid,7.93
+398,FINV,Financial,China,Small,3.66
+399,FISI,Financial,USA,Small,4.77
+400,FISV,Technology,USA,Large,31.39
+401,FITB,Financial,USA,Large,6.90
+402,FIX,Industrials,USA,Mid,25.04
+403,FIZZ,Consumer Defensive,USA,Mid,33.92
+404,FLEX,Technology,Singapore,Large,13.60
+405,FLIC,Financial,USA,Small,5.55
+406,FLO,Consumer Defensive,USA,Mid,26.60
+407,FLT,Technology,USA,Large,18.04
+408,FMBH,Financial,USA,Small,6.28
+409,FMC,Basic Materials,USA,Large,16.76
+410,FMNB,Financial,USA,Small,7.40
+411,FN,Technology,Cayman Islands,Mid,14.15
+412,FNB,Financial,USA,Mid,7.22
+413,FND,Consumer Cyclical,USA,Mid,31.89
+414,FNV,Basic Materials,Canada,Large,32.49
+415,FOR,Real Estate,USA,Small,7.11
+416,FORR,Industrials,USA,Small,35.97
+417,FOXA,Communication Services,USA,Large,14.45
+418,FOXF,Consumer Cyclical,USA,Mid,20.55
+419,FR,Real Estate,USA,Mid,17.99
+420,FRME,Financial,USA,Small,6.38
+421,FRT,Real Estate,USA,Mid,19.12
+422,FSBW,Financial,USA,Small,7.26
+423,FSS,Industrials,USA,Mid,25.18
+424,FSV,Real Estate,Canada,Mid,39.41
+425,FTDR,Consumer Cyclical,USA,Mid,28.39
+426,FTS,Utilities,Canada,Large,15.00
+427,FTV,Technology,USA,Large,30.23
+428,FUL,Basic Materials,USA,Mid,21.83
+429,FULT,Financial,USA,Small,6.34
+430,FUTU,Financial,Hong Kong,Mid,15.83
+431,G,Technology,Bermuda,Mid,18.79
+432,GABC,Financial,USA,Small,8.32
+433,GBCI,Financial,USA,Mid,10.26
+434,GBDC,Financial,USA,Mid,20.67
+435,GBX,Industrials,USA,Small,23.06
+436,GCO,Consumer Cyclical,USA,Small,5.10
+437,GD,Industrials,USA,Large,16.98
+438,GDEN,Consumer Cyclical,USA,Small,19.68
+439,GEF,Consumer Cyclical,USA,Mid,6.59
+440,GEO,Industrials,USA,Small,7.70
+441,GES,Consumer Cyclical,USA,Small,7.96
+442,GFI,Basic Materials,South Africa,Large,19.74
+443,GGG,Industrials,USA,Large,27.09
+444,GIB,Technology,Canada,Large,22.00
+445,GIC,Industrials,USA,Small,12.89
+446,GIL,Consumer Cyclical,Canada,Mid,10.87
+447,GILD,Healthcare,USA,Large,17.70
+448,GIS,Consumer Defensive,USA,Large,19.49
+449,GL,Financial,USA,Large,13.09
+450,GLNG,Energy,Bermuda,Mid,2.68
+451,GLW,Technology,USA,Large,28.81
+452,GM,Consumer Cyclical,USA,Large,4.87
+453,GMED,Healthcare,USA,Mid,28.56
+454,GMS,Industrials,USA,Mid,8.00
+455,GOLF,Consumer Cyclical,USA,Mid,15.50
+456,GOOGL,Communication Services,USA,Large,26.98
+457,GOOS,Consumer Cyclical,Canada,Mid,32.12
+458,GPC,Consumer Cyclical,USA,Large,18.95
+459,GPI,Consumer Cyclical,USA,Mid,4.65
+460,GPK,Consumer Cyclical,USA,Mid,12.69
+461,GRBK,Consumer Cyclical,USA,Mid,8.19
+462,GRMN,Technology,Switzerland,Large,20.51
+463,GS,Financial,USA,Large,11.42
+464,GSBC,Financial,USA,Small,7.67
+465,GSL,Industrials,United Kingdom,Small,2.44
+466,GSM,Basic Materials,United Kingdom,Small,2.68
+467,GTE,Energy,Canada,Small,1.32
+468,GTES,Industrials,USA,Mid,17.58
+469,GTN,Communication Services,USA,Small,2.25
+470,GVA,Industrials,USA,Small,31.30
+471,GWRS,Utilities,USA,Small,36.54
+472,GWW,Industrials,USA,Large,20.24
+473,HALO,Healthcare,USA,Mid,25.56
+474,HAYN,Industrials,USA,Small,10.54
+475,HCCI,Industrials,USA,Small,9.45
+476,HCKT,Technology,USA,Small,14.97
+477,HDB,Financial,India,Large,26.43
+478,HDSN,Basic Materials,USA,Small,4.36
+479,HE,Utilities,USA,Mid,17.70
+480,HEES,Industrials,USA,Small,8.77
+481,HELE,Consumer Defensive,USA,Mid,15.90
+482,HES,Energy,USA,Large,19.86
+483,HESM,Energy,USA,Mid,15.07
+484,HFWA,Financial,USA,Small,6.56
+485,HGV,Consumer Cyclical,USA,Mid,13.33
+486,HHC,Real Estate,USA,Mid,22.58
+487,HI,Industrials,USA,Mid,21.32
+488,HIBB,Consumer Cyclical,USA,Small,5.07
+489,HIG,Financial,USA,Large,11.97
+490,HII,Industrials,USA,Mid,13.85
+491,HIW,Real Estate,USA,Mid,13.19
+492,HLI,Financial,USA,Mid,22.54
+493,HLIO,Industrials,USA,Small,21.20
+494,HLNE,Financial,USA,Mid,24.93
+495,HMC,Consumer Cyclical,Japan,Large,9.17
+496,HMST,Financial,USA,Small,2.20
+497,HNI,Industrials,USA,Small,9.88
+498,HOG,Consumer Cyclical,USA,Mid,5.70
+499,HOLI,Industrials,China,Small,9.23
+500,HOLX,Healthcare,USA,Large,27.12
+501,HOMB,Financial,USA,Mid,12.11
+502,HOPE,Financial,USA,Small,4.69
+503,HRI,Industrials,USA,Mid,8.81
+504,HRL,Consumer Defensive,USA,Large,21.95
+505,HSBC,Financial,United Kingdom,Large,6.75
+506,HSIC,Healthcare,USA,Large,22.01
+507,HSII,Industrials,USA,Small,6.68
+508,HSON,Industrials,USA,Small,8.48
+509,HSY,Consumer Defensive,USA,Large,32.68
+510,HTBI,Financial,USA,Small,8.44
+511,HTBK,Financial,USA,Small,5.96
+512,HTGC,Financial,USA,Small,8.90
+513,HTH,Financial,USA,Mid,17.83
+514,HTLD,Industrials,USA,Small,9.19
+515,HTLF,Financial,USA,Small,5.38
+516,HUBB,Industrials,USA,Large,24.74
+517,HUM,Healthcare,USA,Large,21.06
+518,HURN,Industrials,USA,Small,26.45
+519,HVT,Consumer Cyclical,USA,Small,5.63
+520,HWC,Financial,USA,Mid,5.48
+521,HZO,Consumer Cyclical,USA,Small,3.89
+522,IART,Healthcare,USA,Mid,23.71
+523,IBCP,Financial,USA,Small,5.81
+524,IBKR,Financial,USA,Large,16.93
+525,IBN,Financial,India,Large,19.75
+526,IBOC,Financial,USA,Mid,7.56
+527,IBP,Consumer Cyclical,USA,Mid,13.50
+528,IBTX,Financial,USA,Small,11.92
+529,ICFI,Industrials,USA,Mid,33.20
+530,ICHR,Technology,USA,Small,11.39
+531,ICLR,Healthcare,Ireland,Large,33.40
+532,IDA,Utilities,USA,Mid,20.32
+533,IEX,Industrials,USA,Large,26.21
+534,IFS,Financial,Peru,Mid,5.59
+535,III,Technology,USA,Small,14.16
+536,IIIN,Industrials,USA,Small,7.47
+537,IMKTA,Consumer Defensive,USA,Small,6.23
+538,IMMR,Technology,USA,Small,6.82
+539,IMOS,Technology,Taiwan,Small,8.20
+540,IMXI,Technology,USA,Small,15.34
+541,INDB,Financial,USA,Small,7.64
+542,INFY,Technology,India,Large,21.55
+543,INGR,Consumer Defensive,USA,Mid,13.26
+544,INMD,Healthcare,Israel,Mid,16.43
+545,INT,Energy,USA,Small,12.93
+546,INTT,Technology,USA,Small,21.33
+547,INVA,Healthcare,USA,Small,5.68
+548,IOSP,Basic Materials,USA,Mid,18.59
+549,IPAR,Consumer Defensive,USA,Mid,31.17
+550,IPG,Communication Services,USA,Large,15.72
+551,IQV,Healthcare,USA,Large,34.33
+552,IR,Industrials,USA,Large,37.11
+553,IRM,Real Estate,USA,Large,27.45
+554,ISSC,Industrials,USA,Small,24.79
+555,IT,Technology,USA,Large,27.72
+556,ITIC,Financial,USA,Small,14.07
+557,ITRN,Technology,Israel,Small,11.96
+558,ITT,Industrials,USA,Mid,17.09
+559,ITUB,Financial,Brazil,Large,8.64
+560,ITW,Industrials,USA,Large,22.61
+561,IVZ,Financial,USA,Mid,10.89
+562,J,Industrials,USA,Large,22.60
+563,JAKK,Consumer Cyclical,USA,Small,4.92
+564,JBHT,Industrials,USA,Large,19.43
+565,JBL,Technology,USA,Large,11.68
+566,JBT,Industrials,USA,Mid,25.10
+567,JCI,Industrials,Ireland,Large,30.22
+568,JELD,Industrials,USA,Small,20.30
+569,JKHY,Technology,USA,Large,30.95
+570,JLL,Real Estate,USA,Mid,13.47
+571,JNJ,Healthcare,USA,Large,33.33
+572,JNPR,Technology,USA,Mid,18.98
+573,JOUT,Consumer Cyclical,USA,Small,14.04
+574,JWN,Consumer Cyclical,USA,Mid,9.62
+575,KAI,Industrials,USA,Mid,21.01
+576,KB,Financial,South Korea,Large,4.53
+577,KBR,Industrials,USA,Mid,25.69
+578,KDP,Consumer Defensive,USA,Large,34.33
+579,KEX,Industrials,USA,Mid,29.47
+580,KEYS,Technology,USA,Large,23.02
+581,KFRC,Industrials,USA,Small,15.42
+582,KFY,Industrials,USA,Mid,10.01
+583,KHC,Consumer Defensive,USA,Large,19.88
+584,KLAC,Technology,USA,Large,16.67
+585,KLIC,Technology,Singapore,Mid,13.65
+586,KMB,Consumer Defensive,USA,Large,24.76
+587,KMX,Consumer Cyclical,USA,Large,22.89
+588,KNOP,Industrials,United Kingdom,Small,2.95
+589,KNX,Industrials,USA,Mid,13.39
+590,KO,Consumer Defensive,USA,Large,27.85
+591,KOP,Basic Materials,USA,Small,9.30
+592,KOS,Energy,USA,Mid,9.45
+593,KR,Consumer Defensive,USA,Large,16.00
+594,KRNY,Financial,USA,Small,10.97
+595,KRO,Basic Materials,USA,Small,28.44
+596,KRP,Energy,USA,Small,8.17
+597,KT,Communication Services,South Korea,Mid,5.80
+598,L,Financial,USA,Large,13.13
+599,LAD,Consumer Cyclical,USA,Mid,5.19
+600,LAMR,Real Estate,USA,Mid,22.30
+601,LAZ,Financial,Bermuda,Mid,13.09
+602,LBAI,Financial,USA,Small,7.24
+603,LBC,Financial,USA,Small,6.03
+604,LBRT,Energy,USA,Mid,3.90
+605,LCII,Consumer Cyclical,USA,Mid,13.60
+606,LCNB,Financial,USA,Small,8.27
+607,LDOS,Technology,USA,Large,15.79
+608,LEA,Consumer Cyclical,USA,Mid,17.04
+609,LECO,Industrials,USA,Mid,20.94
+610,LEG,Consumer Cyclical,USA,Mid,15.96
+611,LEVI,Consumer Cyclical,USA,Mid,10.92
+612,LFUS,Technology,USA,Mid,18.82
+613,LGIH,Consumer Cyclical,USA,Mid,10.30
+614,LHX,Industrials,USA,Large,38.25
+615,LINC,Consumer Defensive,USA,Small,17.90
+616,LKFN,Financial,USA,Small,10.62
+617,LKQ,Consumer Cyclical,USA,Large,13.43
+618,LMB,Industrials,USA,Small,32.96
+619,LMT,Industrials,USA,Large,20.45
+620,LNN,Industrials,USA,Small,16.21
+621,LNT,Utilities,USA,Large,20.41
+622,LOCO,Consumer Cyclical,USA,Small,14.78
+623,LOVE,Consumer Cyclical,USA,Small,13.41
+624,LPG,Energy,USA,Small,6.48
+625,LPLA,Financial,USA,Large,14.59
+626,LPX,Industrials,USA,Mid,10.17
+627,LRCX,Technology,USA,Large,15.56
+628,LRN,Consumer Defensive,USA,Small,16.06
+629,LSI,Real Estate,USA,Large,30.62
+630,LSTR,Industrials,USA,Mid,16.58
+631,LSXMA,Communication Services,USA,Large,8.10
+632,LTHM,Basic Materials,USA,Mid,15.35
+633,LU,Financial,China,Mid,3.38
+634,LUV,Industrials,USA,Large,28.77
+635,LW,Consumer Defensive,USA,Large,30.33
+636,LX,Financial,China,Small,4.23
+637,LXU,Basic Materials,USA,Small,4.01
+638,LYB,Basic Materials,USA,Large,9.46
+639,LYTS,Technology,USA,Small,15.78
+640,LZB,Consumer Cyclical,USA,Small,6.81
+641,MA,Financial,USA,Large,37.98
+642,MAA,Real Estate,USA,Large,26.09
+643,MAIN,Financial,USA,Mid,11.81
+644,MAR,Consumer Cyclical,USA,Large,20.44
+645,MAT,Consumer Cyclical,USA,Mid,25.72
+646,MATX,Industrials,USA,Mid,3.48
+647,MBUU,Consumer Cyclical,USA,Small,6.48
+648,MBWM,Financial,USA,Small,5.59
+649,MCBC,Financial,USA,Small,7.12
+650,MCFT,Consumer Cyclical,USA,Small,6.51
+651,MCHP,Technology,USA,Large,20.01
+652,MCO,Financial,USA,Large,39.75
+653,MCRI,Consumer Cyclical,USA,Small,14.75
+654,MCW,Consumer Cyclical,USA,Mid,29.87
+655,MDC,Consumer Cyclical,USA,Mid,6.19
+656,MDLZ,Consumer Defensive,USA,Large,27.16
+657,MDRX,Healthcare,USA,Small,12.55
+658,MDT,Healthcare,Ireland,Large,29.22
+659,MDU,Industrials,USA,Mid,16.03
+660,MED,Consumer Cyclical,USA,Small,7.04
+661,MEDP,Healthcare,USA,Mid,26.20
+662,MEI,Technology,USA,Small,17.72
+663,MEOH,Basic Materials,Canada,Mid,9.86
+664,MET,Financial,USA,Large,26.83
+665,META,Communication Services,USA,Large,28.66
+666,METC,Basic Materials,USA,Small,3.99
+667,MFIN,Financial,USA,Small,3.01
+668,MGA,Consumer Cyclical,Canada,Large,33.93
+669,MGEE,Utilities,USA,Mid,25.61
+670,MGIC,Technology,Israel,Small,17.90
+671,MGRC,Industrials,USA,Mid,20.57
+672,MHH,Industrials,USA,Small,17.12
+673,MHO,Consumer Cyclical,USA,Small,3.91
+674,MIDD,Industrials,USA,Mid,16.61
+675,MKC,Consumer Defensive,USA,Large,36.36
+676,MLI,Industrials,USA,Mid,6.31
+677,MLKN,Consumer Cyclical,USA,Small,17.40
+678,MLM,Basic Materials,USA,Large,26.02
+679,MMC,Financial,USA,Large,28.16
+680,MMI,Real Estate,USA,Small,17.39
+681,MMM,Industrials,USA,Large,10.16
+682,MMP,Energy,USA,Large,13.08
+683,MMS,Industrials,USA,Mid,28.34
+684,MNRO,Consumer Cyclical,USA,Small,34.24
+685,MNST,Consumer Defensive,USA,Large,39.88
+686,MOD,Consumer Cyclical,USA,Small,14.86
+687,MODG,Consumer Cyclical,USA,Mid,36.88
+688,MOFG,Financial,USA,Small,5.95
+689,MOG-A,Industrials,USA,Mid,17.38
+690,MOH,Healthcare,USA,Large,19.63
+691,MOMO,Communication Services,China,Small,8.98
+692,MOV,Consumer Cyclical,USA,Small,6.03
+693,MPLX,Energy,USA,Large,8.67
+694,MPX,Consumer Cyclical,USA,Small,10.85
+695,MRAM,Technology,USA,Small,25.05
+696,MRK,Healthcare,USA,Large,22.65
+697,MRTN,Industrials,USA,Small,15.92
+698,MS,Financial,USA,Large,14.06
+699,MSBI,Financial,USA,Small,4.49
+700,MSEX,Utilities,USA,Small,35.83
+701,MSFT,Technology,USA,Large,33.79
+702,MSM,Industrials,USA,Mid,14.01
+703,MTDR,Energy,USA,Mid,4.37
+704,MTG,Financial,USA,Mid,5.31
+705,MTN,Consumer Cyclical,USA,Mid,28.90
+706,MTRN,Basic Materials,USA,Mid,21.72
+707,MTX,Basic Materials,USA,Small,16.76
+708,MUSA,Consumer Cyclical,USA,Mid,10.39
+709,MWA,Industrials,USA,Mid,27.24
+710,MYE,Consumer Cyclical,USA,Small,12.47
+711,MYRG,Industrials,USA,Mid,25.84
+712,NBHC,Financial,USA,Small,10.86
+713,NBTB,Financial,USA,Small,9.66
+714,NCR,Technology,USA,Mid,36.71
+715,NDAQ,Financial,USA,Large,23.65
+716,NDSN,Industrials,USA,Large,24.97
+717,NEE,Utilities,USA,Large,22.57
+718,NEP,Utilities,USA,Mid,16.01
+719,NEU,Basic Materials,USA,Mid,12.19
+720,NEWT,Financial,USA,Small,8.28
+721,NEX,Energy,USA,Small,3.20
+722,NFBK,Financial,USA,Small,7.38
+723,NFG,Energy,USA,Mid,8.06
+724,NFLX,Communication Services,USA,Large,39.28
+725,NGG,Utilities,United Kingdom,Large,14.52
+726,NGVC,Consumer Defensive,USA,Small,15.64
+727,NGVT,Basic Materials,USA,Small,9.88
+728,NI,Utilities,USA,Large,18.68
+729,NIC,Financial,USA,Small,13.11
+730,NJR,Utilities,USA,Mid,16.26
+731,NKE,Consumer Cyclical,USA,Large,33.61
+732,NMIH,Financial,USA,Mid,6.84
+733,NMM,Industrials,Monaco,Small,1.22
+734,NMR,Financial,Japan,Large,16.17
+735,NOA,Energy,Canada,Small,10.58
+736,NOC,Industrials,USA,Large,14.10
+737,NOG,Energy,USA,Mid,2.01
+738,NOK,Technology,Finland,Large,4.74
+739,NOMD,Consumer Defensive,United Kingdom,Mid,12.13
+740,NRC,Healthcare,USA,Small,34.19
+741,NSA,Real Estate,USA,Mid,37.68
+742,NSC,Industrials,USA,Large,16.35
+743,NSIT,Technology,USA,Mid,16.55
+744,NSP,Industrials,USA,Mid,20.56
+745,NSSC,Industrials,USA,Small,38.51
+746,NTAP,Technology,USA,Large,11.06
+747,NTB,Financial,Bermuda,Small,5.15
+748,NTES,Communication Services,China,Large,20.82
+749,NTIC,Basic Materials,USA,Small,35.71
+750,NTRS,Financial,USA,Large,11.85
+751,NVEC,Technology,USA,Small,18.73
+752,NVEE,Industrials,USA,Small,29.41
+753,NVGS,Energy,United Kingdom,Small,18.70
+754,NVMI,Technology,Israel,Mid,21.80
+755,NVR,Consumer Cyclical,USA,Large,12.38
+756,NVS,Healthcare,Switzerland,Large,31.64
+757,NVT,Industrials,United Kingdom,Mid,16.00
+758,NWE,Utilities,USA,Mid,18.22
+759,NWG,Financial,United Kingdom,Large,6.37
+760,NWN,Utilities,USA,Small,15.44
+761,NWPX,Industrials,USA,Small,8.83
+762,NX,Industrials,USA,Small,13.76
+763,NXPI,Technology,Netherlands,Large,15.90
+764,NYT,Communication Services,USA,Mid,31.47
+765,OBE,Energy,Canada,Small,0.61
+766,OC,Industrials,USA,Mid,7.73
+767,OCFC,Financial,USA,Small,5.37
+768,ODFL,Industrials,USA,Large,24.55
+769,OEC,Basic Materials,Luxembourg,Small,19.61
+770,OFC,Real Estate,USA,Mid,13.36
+771,OFG,Financial,USA,Small,6.49
+772,OGS,Utilities,USA,Mid,19.29
+773,OKE,Energy,USA,Large,10.67
+774,OLED,Technology,USA,Mid,35.51
+775,OLN,Basic Materials,USA,Mid,6.86
+776,OMAB,Industrials,Mexico,Mid,18.23
+777,ON,Technology,USA,Large,20.26
+778,ONB,Financial,USA,Mid,6.12
+779,ONTO,Technology,USA,Mid,23.84
+780,OPBK,Financial,USA,Small,3.39
+781,OPCH,Healthcare,USA,Mid,31.45
+782,OPY,Financial,USA,Small,11.63
+783,ORI,Financial,USA,Mid,12.94
+784,OSBC,Financial,USA,Small,6.41
+785,OSIS,Technology,USA,Small,24.37
+786,OSK,Industrials,USA,Mid,18.15
+787,OTEX,Technology,Canada,Large,36.58
+788,OTTR,Utilities,USA,Mid,11.78
+789,OUT,Real Estate,USA,Mid,20.93
+790,OVV,Energy,USA,Mid,2.26
+791,OXM,Consumer Cyclical,USA,Small,10.52
+792,OZK,Financial,USA,Mid,6.51
+793,PAA,Energy,USA,Mid,8.57
+794,PAC,Industrials,Mexico,Mid,17.75
+795,PAG,Consumer Cyclical,USA,Mid,7.60
+796,PAGS,Technology,Brazil,Mid,13.12
+797,PAHC,Healthcare,USA,Small,19.50
+798,PAM,Utilities,Argentina,Mid,10.80
+799,PATK,Consumer Cyclical,USA,Small,6.38
+800,PAYX,Industrials,USA,Large,25.58
+801,PB,Financial,USA,Mid,10.21
+802,PCG,Utilities,USA,Large,18.99
+803,PCH,Real Estate,USA,Mid,17.74
+804,PCTI,Technology,USA,Small,16.01
+805,PDCE,Energy,USA,Mid,2.65
+806,PDCO,Healthcare,USA,Mid,13.35
+807,PDD,Consumer Cyclical,Ireland,Large,20.98
+808,PEBO,Financial,USA,Small,6.28
+809,PEG,Utilities,USA,Large,13.32
+810,PENN,Consumer Cyclical,USA,Mid,5.77
+811,PFBC,Financial,USA,Small,4.67
+812,PFC,Financial,USA,Small,4.72
+813,PFGC,Consumer Defensive,USA,Mid,28.11
+814,PFS,Financial,USA,Small,6.44
+815,PFSI,Financial,USA,Mid,10.15
+816,PG,Consumer Defensive,USA,Large,27.12
+817,PGC,Financial,USA,Small,5.78
+818,PH,Industrials,USA,Large,27.83
+819,PHI,Communication Services,Philippines,Mid,24.84
+820,PII,Consumer Cyclical,USA,Mid,9.47
+821,PINC,Healthcare,USA,Mid,17.62
+822,PIPR,Financial,USA,Mid,21.43
+823,PJT,Financial,USA,Small,20.03
+824,PKBK,Financial,USA,Small,4.37
+825,PKE,Industrials,USA,Small,32.03
+826,PKX,Basic Materials,South Korea,Large,9.13
+827,PLAB,Technology,USA,Small,9.28
+828,PLAY,Communication Services,USA,Small,12.14
+829,PLMR,Financial,USA,Small,23.15
+830,PLOW,Consumer Cyclical,USA,Small,21.53
+831,PLUS,Technology,USA,Small,10.40
+832,PLXS,Technology,USA,Mid,14.15
+833,PNC,Financial,USA,Large,7.65
+834,PNFP,Financial,USA,Mid,6.55
+835,PNM,Utilities,USA,Mid,18.66
+836,PNR,Industrials,United Kingdom,Mid,19.58
+837,PNW,Utilities,USA,Mid,20.88
+838,POR,Utilities,USA,Mid,18.40
+839,POST,Consumer Defensive,USA,Mid,13.89
+840,POWL,Industrials,USA,Small,24.27
+841,PPBI,Financial,USA,Small,6.21
+842,PPG,Basic Materials,USA,Large,25.92
+843,PPL,Utilities,USA,Large,27.99
+844,PR,Energy,USA,Mid,4.68
+845,PRDO,Consumer Defensive,USA,Small,8.35
+846,PRFT,Technology,USA,Mid,25.82
+847,PRGS,Technology,USA,Mid,25.33
+848,PRIM,Industrials,USA,Small,10.07
+849,PRK,Financial,USA,Small,11.48
+850,PSA,Real Estate,USA,Large,12.28
+851,PSMT,Consumer Defensive,USA,Mid,20.67
+852,PSX,Energy,USA,Large,4.01
+853,PTSI,Industrials,USA,Small,7.26
+854,PVH,Consumer Cyclical,USA,Mid,28.19
+855,PYPL,Financial,USA,Large,25.74
+856,QCRH,Financial,USA,Small,6.40
+857,QSR,Consumer Cyclical,Canada,Large,22.41
+858,RBCAA,Financial,USA,Small,8.65
+859,RC,Real Estate,USA,Small,7.70
+860,RCI,Communication Services,Canada,Large,18.65
+861,RCKY,Consumer Cyclical,USA,Small,11.50
+862,RCMT,Industrials,USA,Small,6.99
+863,RDY,Healthcare,India,Mid,20.72
+864,RE,Financial,Bermuda,Large,22.88
+865,REGN,Healthcare,USA,Large,20.17
+866,REI,Energy,USA,Small,1.58
+867,RELL,Technology,USA,Small,9.13
+868,RELX,Industrials,United Kingdom,Large,29.13
+869,REX,Basic Materials,USA,Small,18.09
+870,REYN,Consumer Cyclical,USA,Mid,26.26
+871,RGLD,Basic Materials,USA,Mid,37.16
+872,RGP,Industrials,USA,Small,8.09
+873,RHP,Real Estate,USA,Mid,25.00
+874,RITM,Real Estate,USA,Mid,13.92
+875,RJF,Financial,USA,Large,11.27
+876,RLGT,Industrials,USA,Small,7.10
+877,RLI,Financial,USA,Mid,9.50
+878,RM,Financial,USA,Small,7.35
+879,RMD,Healthcare,USA,Large,39.03
+880,RNGR,Energy,USA,Small,21.97
+881,RNST,Financial,USA,Small,7.76
+882,ROCC,Energy,USA,Small,2.69
+883,ROCK,Industrials,USA,Small,19.81
+884,ROIC,Real Estate,USA,Small,33.31
+885,ROK,Industrials,USA,Large,23.77
+886,ROST,Consumer Cyclical,USA,Large,23.48
+887,RPM,Basic Materials,USA,Large,19.31
+888,RRR,Consumer Cyclical,USA,Mid,15.99
+889,RRX,Industrials,USA,Mid,23.51
+890,RSG,Industrials,USA,Large,30.62
+891,RTX,Industrials,USA,Large,25.50
+892,RUTH,Consumer Cyclical,USA,Small,17.88
+893,RVLV,Consumer Cyclical,USA,Small,25.41
+894,RVSB,Financial,USA,Small,5.00
+895,RWAY,Financial,USA,Small,10.56
+896,RY,Financial,Canada,Large,12.22
+897,RYI,Industrials,USA,Small,4.72
+898,SACH,Real Estate,USA,Small,6.76
+899,SAIA,Industrials,USA,Mid,20.41
+900,SAIC,Technology,USA,Mid,18.25
+901,SAMG,Financial,USA,Small,9.90
+902,SATS,Technology,USA,Small,11.51
+903,SB,Industrials,Monaco,Small,2.63
+904,SBCF,Financial,USA,Small,12.89
+905,SBOW,Energy,USA,Small,1.00
+906,SBS,Utilities,Brazil,Mid,11.21
+907,SBSI,Financial,USA,Small,8.15
+908,SCHN,Basic Materials,USA,Small,11.71
+909,SCHW,Financial,USA,Large,13.66
+910,SCI,Consumer Cyclical,USA,Mid,20.93
+911,SCL,Basic Materials,USA,Mid,17.42
+912,SCPL,Communication Services,USA,Mid,15.86
+913,SCS,Industrials,USA,Small,22.68
+914,SCVL,Consumer Cyclical,USA,Small,5.82
+915,SEE,Consumer Cyclical,USA,Mid,15.00
+916,SEIC,Financial,USA,Mid,19.92
+917,SF,Financial,USA,Mid,11.04
+918,SFM,Consumer Defensive,USA,Mid,15.62
+919,SFNC,Financial,USA,Small,8.24
+920,SFST,Financial,USA,Small,7.75
+921,SHBI,Financial,USA,Small,6.67
+922,SHEL,Energy,United Kingdom,Large,4.97
+923,SHG,Financial,South Korea,Large,4.05
+924,SHOO,Consumer Cyclical,USA,Mid,13.95
+925,SHW,Basic Materials,USA,Large,27.26
+926,SHYF,Industrials,USA,Small,18.45
+927,SIG,Consumer Cyclical,Bermuda,Mid,15.58
+928,SIGA,Healthcare,USA,Small,11.89
+929,SIGI,Financial,USA,Mid,24.90
+930,SII,Financial,Canada,Small,35.37
+931,SILC,Technology,Israel,Small,12.43
+932,SIMO,Technology,Hong Kong,Small,11.21
+933,SJM,Consumer Defensive,USA,Large,23.28
+934,SJW,Utilities,USA,Mid,28.15
+935,SKX,Consumer Cyclical,USA,Mid,20.30
+936,SKY,Consumer Cyclical,USA,Mid,9.37
+937,SLCA,Energy,USA,Small,7.10
+938,SLF,Financial,Canada,Large,13.08
+939,SLGN,Consumer Cyclical,USA,Mid,16.00
+940,SLM,Financial,USA,Mid,8.85
+941,SMCI,Technology,USA,Mid,13.74
+942,SMMF,Financial,USA,Small,4.27
+943,SMP,Consumer Cyclical,USA,Small,12.04
+944,SMPL,Consumer Defensive,USA,Mid,30.86
+945,SMTC,Technology,USA,Small,20.24
+946,SNA,Industrials,USA,Large,14.62
+947,SNDR,Industrials,USA,Mid,10.00
+948,SNEX,Financial,USA,Small,8.18
+949,SNX,Technology,USA,Mid,12.31
+950,SNY,Healthcare,France,Large,15.04
+951,SO,Utilities,USA,Large,22.94
+952,SONY,Technology,Japan,Large,16.71
+953,SPH,Utilities,USA,Small,10.48
+954,SPNS,Technology,Israel,Small,24.92
+955,SPTN,Consumer Defensive,USA,Small,24.31
+956,SPWH,Consumer Cyclical,USA,Small,5.98
+957,SR,Utilities,USA,Mid,14.36
+958,SRC,Real Estate,USA,Mid,16.53
+959,SRCE,Financial,USA,Small,8.31
+960,SRE,Utilities,USA,Large,18.76
+961,SSB,Financial,USA,Mid,8.59
+962,SSD,Basic Materials,USA,Mid,16.39
+963,SSNC,Technology,USA,Large,23.45
+964,SSTK,Communication Services,USA,Small,22.63
+965,ST,Technology,USA,Mid,16.58
+966,STAG,Real Estate,USA,Mid,35.11
+967,STC,Financial,USA,Small,12.24
+968,STGW,Communication Services,USA,Small,30.88
+969,STKS,Consumer Cyclical,USA,Small,17.26
+970,STLD,Basic Materials,USA,Large,5.08
+971,STM,Technology,Switzerland,Large,9.44
+972,STN,Industrials,Canada,Mid,32.66
+973,STRL,Industrials,USA,Small,13.33
+974,STT,Financial,USA,Large,9.33
+975,SUM,Basic Materials,USA,Mid,13.94
+976,SUN,Energy,USA,Mid,11.42
+977,SUPN,Healthcare,USA,Mid,39.11
+978,SVM,Basic Materials,Canada,Small,25.07
+979,SWKS,Technology,USA,Large,13.93
+980,SWN,Energy,USA,Mid,0.88
+981,SXC,Basic Materials,USA,Small,7.11
+982,SXI,Industrials,USA,Small,12.37
+983,SXT,Basic Materials,USA,Mid,22.47
+984,SYBT,Financial,USA,Small,10.74
+985,SYNA,Technology,USA,Mid,17.41
+986,SYNH,Healthcare,USA,Mid,28.96
+987,SYY,Consumer Defensive,USA,Large,24.27
+988,TA,Consumer Cyclical,USA,Small,9.03
+989,TAC,Utilities,Canada,Mid,30.73
+990,TAK,Healthcare,Japan,Large,21.88
+991,TBBK,Financial,USA,Small,10.97
+992,TCBI,Financial,USA,Mid,7.56
+993,TCBK,Financial,USA,Small,7.53
+994,TCS,Consumer Cyclical,USA,Small,2.54
+995,TD,Financial,Canada,Large,9.87
+996,TDCX,Industrials,Singapore,Small,15.26
+997,TDY,Technology,USA,Large,25.94
+998,TEL,Technology,Switzerland,Large,18.12
+999,TER,Technology,USA,Large,24.59
+1000,TEX,Industrials,USA,Mid,8.85
+1001,TFII,Industrials,Canada,Large,9.02
+1002,TFIN,Financial,USA,Small,14.25
+1003,TFX,Healthcare,USA,Large,32.15
+1004,TGH,Industrials,Bermuda,Small,6.10
+1005,TGLS,Basic Materials,Colombia,Mid,12.17
+1006,TGNA,Communication Services,USA,Mid,5.98
+1007,THO,Consumer Cyclical,USA,Mid,5.39
+1008,THR,Industrials,USA,Small,20.22
+1009,TIMB,Communication Services,Brazil,Mid,20.74
+1010,TITN,Industrials,USA,Small,7.31
+1011,TIXT,Technology,Canada,Small,20.43
+1012,TJX,Consumer Cyclical,USA,Large,26.31
+1013,TKC,Communication Services,Turkey,Mid,5.29
+1014,TKR,Industrials,USA,Mid,13.02
+1015,TLYS,Consumer Cyclical,USA,Small,24.36
+1016,TM,Consumer Cyclical,Japan,Large,10.58
+1017,TME,Communication Services,China,Large,23.31
+1018,TMHC,Consumer Cyclical,USA,Mid,4.67
+1019,TMO,Healthcare,USA,Large,33.86
+1020,TMP,Financial,USA,Small,9.28
+1021,TNC,Industrials,USA,Small,17.95
+1022,TNET,Industrials,USA,Mid,16.50
+1023,TNK,Energy,Bermuda,Small,6.16
+1024,TNP,Energy,Greece,Small,2.86
+1025,TOL,Consumer Cyclical,USA,Mid,5.66
+1026,TPL,Energy,USA,Large,23.54
+1027,TPR,Consumer Cyclical,USA,Mid,12.48
+1028,TR,Consumer Defensive,USA,Mid,34.85
+1029,TRC,Industrials,USA,Small,33.55
+1030,TRGP,Energy,USA,Large,17.76
+1031,TRMB,Technology,USA,Large,24.88
+1032,TRMK,Financial,USA,Small,13.58
+1033,TROX,Basic Materials,USA,Small,3.38
+1034,TRS,Consumer Cyclical,USA,Small,18.80
+1035,TRST,Financial,USA,Small,6.90
+1036,TRTN,Industrials,Bermuda,Mid,7.66
+1037,TRV,Financial,USA,Large,15.46
+1038,TS,Energy,Luxembourg,Large,4.86
+1039,TSBK,Financial,USA,Small,7.02
+1040,TSCO,Consumer Cyclical,USA,Large,23.29
+1041,TSEM,Technology,Israel,Mid,16.89
+1042,TSM,Technology,Taiwan,Large,13.42
+1043,TSN,Consumer Defensive,USA,Large,11.77
+1044,TSQ,Communication Services,USA,Small,13.01
+1045,TT,Industrials,Ireland,Large,22.15
+1046,TTC,Industrials,USA,Large,22.54
+1047,TTEK,Industrials,USA,Mid,25.04
+1048,TTSH,Consumer Cyclical,USA,Small,14.82
+1049,TU,Communication Services,Canada,Large,26.75
+1050,TWI,Industrials,USA,Small,3.61
+1051,TWIN,Industrials,USA,Small,17.66
+1052,TWNK,Consumer Defensive,USA,Mid,20.94
+1053,TX,Basic Materials,Luxembourg,Mid,5.45
+1054,TXN,Technology,USA,Large,18.33
+1055,TXRH,Consumer Cyclical,USA,Mid,26.33
+1056,UAL,Industrials,USA,Large,7.92
+1057,UAN,Basic Materials,USA,Small,2.91
+1058,UBA,Real Estate,USA,Small,23.61
+1059,UBCP,Financial,USA,Small,8.03
+1060,UBSI,Financial,USA,Mid,9.60
+1061,UGP,Energy,Brazil,Mid,11.09
+1062,UHAL,Industrials,USA,Large,1.52
+1063,UHS,Healthcare,USA,Mid,14.28
+1064,ULH,Industrials,USA,Small,4.58
+1065,ULTA,Consumer Cyclical,USA,Large,20.78
+1066,UNF,Industrials,USA,Mid,29.89
+1067,UNH,Healthcare,USA,Large,21.94
+1068,UNM,Financial,USA,Mid,6.85
+1069,UNP,Industrials,USA,Large,17.41
+1070,UNVR,Basic Materials,USA,Mid,13.10
+1071,UPBD,Technology,USA,Small,28.32
+1072,UPS,Industrials,USA,Large,13.47
+1073,URBN,Consumer Cyclical,USA,Mid,15.95
+1074,URI,Industrials,USA,Large,10.48
+1075,USB,Financial,USA,Large,7.65
+1076,UTHR,Healthcare,USA,Mid,14.27
+1077,UTL,Utilities,USA,Small,20.43
+1078,UVSP,Financial,USA,Small,6.37
+1079,V,Financial,USA,Large,30.78
+1080,VAC,Consumer Cyclical,USA,Mid,12.89
+1081,VBTX,Financial,USA,Small,5.59
+1082,VC,Consumer Cyclical,USA,Mid,27.75
+1083,VET,Energy,Canada,Mid,1.36
+1084,VHI,Basic Materials,USA,Small,9.20
+1085,VICI,Real Estate,USA,Large,21.89
+1086,VIPS,Consumer Cyclical,China,Mid,11.46
+1087,VIV,Communication Services,Brazil,Large,16.57
+1088,VLY,Financial,USA,Mid,5.82
+1089,VMI,Industrials,USA,Mid,23.24
+1090,VNDA,Healthcare,USA,Small,22.28
+1091,VNT,Technology,USA,Mid,19.20
+1092,VPG,Technology,USA,Small,12.41
+1093,VREX,Healthcare,USA,Small,31.51
+1094,VRTS,Financial,USA,Small,10.41
+1095,VRTX,Healthcare,USA,Large,27.50
+1096,VSEC,Industrials,USA,Small,19.33
+1097,VTLE,Energy,USA,Small,0.84
+1098,VTSI,Industrials,USA,Small,37.65
+1099,WAB,Industrials,USA,Large,26.89
+1100,WABC,Financial,USA,Small,7.09
+1101,WAFD,Financial,USA,Small,6.26
+1102,WASH,Financial,USA,Small,5.86
+1103,WAT,Healthcare,USA,Large,23.16
+1104,WCC,Industrials,USA,Mid,8.19
+1105,WEC,Utilities,USA,Large,21.10
+1106,WEN,Consumer Cyclical,USA,Mid,28.09
+1107,WERN,Industrials,USA,Mid,12.71
+1108,WES,Energy,USA,Mid,9.28
+1109,WF,Financial,South Korea,Mid,2.80
+1110,WFG,Basic Materials,Canada,Mid,6.61
+1111,WGO,Consumer Cyclical,USA,Small,5.88
+1112,WH,Consumer Cyclical,USA,Mid,18.47
+1113,WHD,Energy,USA,Mid,17.38
+1114,WILC,Consumer Defensive,Israel,Small,16.40
+1115,WIRE,Industrials,USA,Mid,4.61
+1116,WIT,Technology,India,Large,18.49
+1117,WLFC,Industrials,USA,Small,10.68
+1118,WLKP,Basic Materials,USA,Small,11.93
+1119,WM,Industrials,USA,Large,30.67
+1120,WMB,Energy,USA,Large,13.53
+1121,WMG,Communication Services,USA,Large,31.17
+1122,WMS,Industrials,USA,Mid,15.46
+1123,WMT,Consumer Defensive,USA,Large,35.05
+1124,WNC,Industrials,USA,Small,7.78
+1125,WNEB,Financial,USA,Small,4.92
+1126,WNS,Technology,India,Mid,26.19
+1127,WOOF,Consumer Cyclical,USA,Mid,28.94
+1128,WOR,Industrials,USA,Mid,13.25
+1129,WPM,Basic Materials,Canada,Large,36.04
+1130,WRB,Financial,USA,Large,14.97
+1131,WRLD,Financial,USA,Small,28.22
+1132,WSBC,Financial,USA,Small,7.17
+1133,WSFS,Financial,USA,Small,6.88
+1134,WSM,Consumer Cyclical,USA,Mid,6.82
+1135,WSO,Industrials,USA,Large,21.72
+1136,WT,Financial,USA,Small,15.97
+1137,WTFC,Financial,USA,Mid,7.08
+1138,WTRG,Utilities,USA,Large,24.17
+1139,WTS,Industrials,USA,Mid,20.90
+1140,WTW,Financial,United Kingdom,Large,21.83
+1141,WY,Real Estate,USA,Large,17.28
+1142,X,Basic Materials,USA,Mid,3.14
+1143,XEL,Utilities,USA,Large,20.60
+1144,XNET,Communication Services,China,Small,5.22
+1145,XP,Financial,Cayman Islands,Mid,12.52
+1146,XYF,Financial,China,Small,1.91
+1147,YETI,Consumer Cyclical,USA,Mid,39.64
+1148,YORW,Utilities,USA,Small,32.01
+1149,ZBRA,Technology,USA,Large,33.90
+1150,ZEUS,Basic Materials,USA,Small,7.58
+1151,ZTO,Industrials,China,Large,23.93
+1152,ZUMZ,Consumer Cyclical,USA,Small,14.58
+1153,ZYME,Healthcare,Canada,Small,3.50
+1154,ZYME,Healthcare,Canada,Small,3.50
+1155,ZYME,Healthcare,Canada,Small,3.50
