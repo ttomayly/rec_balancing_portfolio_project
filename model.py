@@ -111,7 +111,7 @@ def get_client_assets(cl_assets, cl_units):
     cl_stocks = get_dict_stocks()
     init_portfolio_value = deposit
     init_bonds_value = 0
-    
+
     for i in range(len(cl_assets)):
         tr = False
         ticker = cl_assets[i]
