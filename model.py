@@ -104,7 +104,7 @@ def get_horizon(horizon):
 
 
 def get_client_assets(cl_assets, cl_units):
-    cl_df_assets = pd.DataFrame(data={'assets': ['Large Cap', 'Small or Mid Cap', 'Foreign', 'Bonds', 'Cash'],
+    cl_df_assets = pd.DataFrame(data={'assets': ['Large Cap', 'Small or Mid Cap', 'Foreign', ' Bonds', 'Cash'],
                                       'client': [0, 0, 0, 0, deposit]})
     cl_df_bonds = pd.DataFrame(data={'bonds': us_treasuries_t, 'client': [0, 0, 0, 0]})
 
@@ -114,11 +114,9 @@ def get_client_assets(cl_assets, cl_units):
     for i in range(len(cl_assets)):
         tr = False
         ticker = cl_assets[i]
-        print(ticker)
 
         for j in range(len(us_treasuries_t)):
             if ticker == us_treasuries_t[j]:
-                print("here")
                 last_price = float(pdr.get_data_yahoo(us_treasuries[j],
                                                       start=start_date, end=end_date)['Adj Close'][-1])
                 init_portfolio_value += cl_units[i] * last_price
