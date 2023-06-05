@@ -104,7 +104,7 @@ def get_horizon(horizon):
 
 
 def get_client_assets(cl_assets, cl_units):
-    cl_df_assets = pd.DataFrame(data={'assets': ['Large Cap', 'Small or Mid Cap', 'Foreign', ' Bonds', 'Cash'],
+    cl_df_assets = pd.DataFrame(data={'assets': ['Large Cap', 'Small or Mid Cap', 'Foreign', 'Bonds', 'Cash'],
                                       'client': [0, 0, 0, 0, deposit]})
     cl_df_bonds = pd.DataFrame(data={'bonds': us_treasuries_t, 'client': [0, 0, 0, 0]})
 
