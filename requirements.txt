@@ -7,3 +7,6 @@ yfinance
 streamlit-webrtc>=0.34.1
 PyPortfolioOpt
 yahooquery
+openpyxl
+beautifulsoup4
+requests
