@@ -91,9 +91,11 @@ def show_pies_cl():
         show_pie_chart(profile, 'assets', rec_portfolio_stocks_ch)
 
     rec_portfolio_bonds_ch = rec_portfolio_bonds.loc[lambda rec_portfolio_bonds: rec_portfolio_bonds[profile] != 0]
-    rec_portfolio_bonds_ch = rec_portfolio_bonds_ch.drop(labels=rec_portfolio_bonds_ch.shape[0] - 1, axis=0)
+    rec_portfolio_bonds_ch = rec_portfolio_bonds_ch.reset_index(drop=True)
     cl_df_bonds_ch = cl_df_bonds.loc[lambda cl_df_bonds: cl_df_bonds['client'] != 0]
-    if cl_df_bonds_ch.shape[0]:
+    if rec_portfolio_bonds_ch.shape[0]:
+        rec_portfolio_bonds_ch = rec_portfolio_bonds_ch.drop(labels=rec_portfolio_bonds_ch.shape[0] - 1, axis=0)
+    if cl_df_bonds_ch.shape[0] and rec_portfolio_bonds_ch.shape[0]:
         with col_pie1:
             st.write("Your allocation of bonds")
             show_pie_chart('client', 'bonds', cl_df_bonds_ch)

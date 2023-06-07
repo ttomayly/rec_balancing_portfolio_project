@@ -274,6 +274,7 @@ def get_balancing(cl_assets, cl_units, risk_profile, horizon, money):
         cl_stocks = merge_stocks(new_stocks, cl_stocks)
 
     leftover_stocks = 0
+    cash_left = 0
 
     for i in range(rec_portfolio_stocks.shape[0] - 2):  # does not include bonds and cash
         asset_type = rec_portfolio_stocks.iloc[i]['assets']
@@ -284,17 +285,19 @@ def get_balancing(cl_assets, cl_units, risk_profile, horizon, money):
             new = pd.DataFrame({"type": [asset_type], "assets": [allocations]})
             balanced_portfolio = pd.concat([balanced_portfolio, new], ignore_index=True)
 
-    weights_min = np.array(rec_portfolio_bonds[profile])/float(rec_portfolio_bonds.iloc[-1][profile])
-    weights_min = weights_min[:-1]
-    allocation_bonds, leftover_bonds = get_discrete(get_cl_data_close(us_treasuries),
-                                                    float(rec_portfolio_bonds.iloc[-1][profile]),
-                                                    get_dict_bonds_weights(weights_min))
-    allocation_bonds = {key[1:]: val for key, val in allocation_bonds.items()}
+    if rec_portfolio_bonds.iloc[-1][profile]:
+        weights_min = np.array(rec_portfolio_bonds[profile])/float(rec_portfolio_bonds.iloc[-1][profile])
+        weights_min = weights_min[:-1]
+        allocation_bonds, leftover_bonds = get_discrete(get_cl_data_close(us_treasuries),
+                                                        float(rec_portfolio_bonds.iloc[-1][profile]),
+                                                        get_dict_bonds_weights(weights_min))
+        allocation_bonds = {key[1:]: val for key, val in allocation_bonds.items()}
 
-    new = pd.DataFrame({"type": ['Bonds'], "assets": [allocation_bonds]})
-    balanced_portfolio = pd.concat([balanced_portfolio, new], ignore_index=True)
+        new = pd.DataFrame({"type": ['Bonds'], "assets": [allocation_bonds]})
+        balanced_portfolio = pd.concat([balanced_portfolio, new], ignore_index=True)
+        cash_left += leftover_bonds
 
-    cash_left = rec_portfolio_stocks.iloc[-1][profile] + leftover_bonds + leftover_stocks
+    cash_left += rec_portfolio_stocks.iloc[-1][profile] + leftover_stocks
     new = pd.DataFrame({"type": ['Cash/Deposit'], "assets": [{"cash": cash_left}]})
     balanced_portfolio = pd.concat([balanced_portfolio, new], ignore_index=True)
 
