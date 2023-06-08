@@ -278,11 +278,9 @@ def get_balancing(cl_assets, cl_units, risk_profile, horizon, money):
     for i in range(rec_portfolio_stocks.shape[0] - 2):  # does not include bonds and cash
         asset_type = rec_portfolio_stocks.iloc[i]['assets']
         allocated_money = rec_portfolio_stocks.iloc[i][profile]
-        print(asset_type, allocated_money)
 
         if allocated_money and cl_stocks[asset_type]:
             allocations, leftover = get_stock_allocation(cl_stocks[asset_type], allocated_money)
-            print(allocations)
             leftover_stocks += leftover
             new = pd.DataFrame({"type": [asset_type], "assets": [allocations]})
             balanced_portfolio = pd.concat([balanced_portfolio, new], ignore_index=True)
