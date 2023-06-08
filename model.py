@@ -6,7 +6,6 @@ from pypfopt import expected_returns
 from pypfopt.discrete_allocation import DiscreteAllocation, get_latest_prices
 from pypfopt import EfficientCVaR
 from collections import OrderedDict
-from yahooquery import Ticker
 import yfinance as yf
 
 yf.pdr_override()

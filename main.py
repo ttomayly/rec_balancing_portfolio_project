@@ -102,14 +102,13 @@ def show_pies_cl():
         with col_pie2:
             st.markdown("**Recommended allocation of bonds**")
             show_pie_chart(profile, 'bonds', rec_portfolio_bonds_ch)
-    elif cl_df_bonds_ch.shape[0] and not rec_portfolio_bonds_ch.shape[0]:
+    elif not cl_df_bonds_ch.shape[0] and rec_portfolio_bonds_ch.shape[0]:
         with col_pie1:
             st.markdown("**Your allocation of bonds**")
             st.write("You do not have bonds")
         with col_pie2:
             st.markdown("**Recommended allocation of bonds**")
             show_pie_chart(profile, 'bonds', rec_portfolio_bonds_ch)
-
 
 
 def show_pies_no_cl():
