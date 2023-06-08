@@ -82,12 +82,12 @@ def show_pies_cl():
     col_pie1, col_pie2 = st.columns(2)
     with col_pie1:
         cl_df_assets_ch = cl_df_assets.loc[lambda cl_df_assets: cl_df_assets['client'] != 0]
-        st.write("Your allocation of assets")
+        st.markdown("**Your allocation of assets**")
         show_pie_chart('client', 'assets', cl_df_assets_ch)
     with col_pie2:
         rec_portfolio_stocks_ch = rec_portfolio_stocks.loc[
             lambda rec_portfolio_stocks: rec_portfolio_stocks[profile] != 0]
-        st.write("Recommended allocation of assets")
+        st.markdown("**Recommended allocation of assets**")
         show_pie_chart(profile, 'assets', rec_portfolio_stocks_ch)
 
     rec_portfolio_bonds_ch = rec_portfolio_bonds.loc[lambda rec_portfolio_bonds: rec_portfolio_bonds[profile] != 0]
@@ -97,11 +97,19 @@ def show_pies_cl():
         rec_portfolio_bonds_ch = rec_portfolio_bonds_ch.drop(labels=rec_portfolio_bonds_ch.shape[0] - 1, axis=0)
     if cl_df_bonds_ch.shape[0] and rec_portfolio_bonds_ch.shape[0]:
         with col_pie1:
-            st.write("Your allocation of bonds")
+            st.markdown("**Your allocation of bonds**")
             show_pie_chart('client', 'bonds', cl_df_bonds_ch)
         with col_pie2:
-            st.write("Recommended allocation of bonds")
+            st.markdown("**Recommended allocation of bonds**")
             show_pie_chart(profile, 'bonds', rec_portfolio_bonds_ch)
+    elif cl_df_bonds_ch.shape[0] and not rec_portfolio_bonds_ch.shape[0]:
+        with col_pie1:
+            st.markdown("**Your allocation of bonds**")
+            st.write("You do not have bonds")
+        with col_pie2:
+            st.markdown("**Recommended allocation of bonds**")
+            show_pie_chart(profile, 'bonds', rec_portfolio_bonds_ch)
+
 
 
 def show_pies_no_cl():
@@ -110,12 +118,12 @@ def show_pies_no_cl():
     with col_pie1:
         rec_portfolio_stocks_ch = rec_portfolio_stocks.loc[
             lambda rec_portfolio_stocks: rec_portfolio_stocks[profile] != 0]
-        st.write("Recommended allocation of assets")
+        st.markdown("**Recommended allocation of assets**")
         show_pie_chart(profile, 'assets', rec_portfolio_stocks_ch)
     with col_pie2:
         rec_portfolio_bonds_ch = rec_portfolio_bonds.loc[lambda rec_portfolio_bonds: rec_portfolio_bonds[profile] != 0]
         rec_portfolio_bonds_ch = rec_portfolio_bonds_ch.drop(labels=rec_portfolio_bonds_ch.shape[0] - 1, axis=0)
-        st.write("Recommended allocation of bonds")
+        st.markdown("**Recommended allocation of bonds**")
         show_pie_chart(profile, 'bonds', rec_portfolio_bonds_ch)
 
 
@@ -126,11 +134,11 @@ def show_performance_cl():
     rec_ret, rec_vol = model.get_value(rec_assets, rec_units)
     cld1, cld2 = st.columns(2)
     with cld1:
-        st.write("Your portfolio")
+        st.markdown("**Your portfolio**")
         st.write("Return: ", round(cl_ret * 100, 2), "%")
         st.write("Volatility: ", round(cl_vol * 100, 2), "%")
     with cld2:
-        st.write("Recommended portfolio")
+        st.markdown("**Recommended portfolio**")
         st.write("Return: ", round(rec_ret * 100, 2), "%")
         st.write("Volatility: ", round(rec_vol * 100, 2), "%")
 
@@ -170,7 +178,7 @@ st.title("Recommendations on portfolio balancing")
 # sidebar
 st.sidebar.header('Input current portfolio and your risk profile')
 
-deposit = st.sidebar.text_input("How much money do you hold as deposit?")
+deposit = st.sidebar.text_input("How much money do you hold as deposit?(in $)")
 if deposit:
     deposit = float(deposit)
 else:
@@ -202,7 +210,7 @@ risk_profile = st.sidebar.selectbox('Risk profile', ('conservative', 'moderately
 
 horizon = st.sidebar.slider(label='Horizon of investment', min_value=0, max_value=20, step=1)
 
-money = st.sidebar.text_input("Money to invest")
+money = st.sidebar.text_input("Money to invest(in $)")
 if money:
     money = float(money)
 else:
